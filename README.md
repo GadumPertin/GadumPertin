@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GadumPertin
 - 👀 I’m interested in Development Projects
-- 🌱 I’m currently learning backend, databases and reacts
-- 💞️ I’m looking to collaborate on web developing projects and app developing project with reactNatives 
+- 🌱 I’m currently learning and working: Javascript, NodeJs, ReactsJs, MongoDB and MySql
+- 💞️ I’m looking to collaborate on web development projects and ReeactNatives 
 - 📫 How to reach me with my EmailId : gadumgadum136@gmail.com
 
 <!---
